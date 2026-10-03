@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of datlechin/flarum-discussion-count.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-discussion-count) or the [upstream repository](https://github.com/datlechin/flarum-discussion-count).
 
-**0** versions archived · Latest: [`v2.0.0-beta.1`](https://github.com/flarchive/datlechin-flarum-discussion-count/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0.0-beta`
+**2** versions archived · Latest: [`v2.0.0-beta.1`](https://github.com/flarchive/datlechin-flarum-discussion-count/tree/archive/v2.0.0-beta.1) (stable: [`v0.1.0`](https://github.com/flarchive/datlechin-flarum-discussion-count/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2022-06-27 | `^1.2.0` | [Browse](https://github.com/flarchive/datlechin-flarum-discussion-count/tree/archive/v0.1.0) |
+| `v2.0.0-beta.1` | 2026-02-24 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/datlechin-flarum-discussion-count/tree/archive/v2.0.0-beta.1) |
 
 Catalog entry: [packages/datlechin-flarum-discussion-count.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-discussion-count.json)
 
